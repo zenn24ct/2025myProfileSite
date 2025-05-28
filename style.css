@@ -41,6 +41,10 @@ ul li {
   font-size: 1.1rem;
 }
 
+p {
+  font-size: 0.9rem;
+}
+
 ul li::before {
   content: "🍊";
   position: absolute;
