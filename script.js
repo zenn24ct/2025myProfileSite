@@ -1,5 +1,5 @@
 // タイピング風自己紹介
-const text = "見てくださりありがとうございます！"
+const text = "Thank you for visiting my profile!"
 function typingEffect() {
   if (i < text.length) {
     document.getElementById("typed-text").innerHTML += text.charAt(i);
