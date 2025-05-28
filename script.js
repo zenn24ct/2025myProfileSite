@@ -1,6 +1,5 @@
 // タイピング風自己紹介
-const text = "Hi, I'm a student who loves code, cats, and creativity!";
-let i = 0;
+const text = "見てくださりありがとうございます！"
 function typingEffect() {
   if (i < text.length) {
     document.getElementById("typed-text").innerHTML += text.charAt(i);
